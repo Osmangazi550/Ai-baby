@@ -1,0 +1,6 @@
+{
+  "name": "AI BABY",
+  "description": "Futuristic native Android AI Voice Assistant with natural voice conversations, Bengali and English recognition, and interactive visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
